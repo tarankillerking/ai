@@ -1,0 +1,14 @@
+body {
+background-image:linear-gradient(black,rgba(128, 128, 128, 0.452),rgb(253, 253, 253),rgba(128, 128, 128, 0.452),black) ;
+}
+p {
+  text-decoration: dotted;  
+}
+h1 {
+  color: whitesmoke  
+}
+#camera{
+  border: 2px dotted grey;
+  width: 350px;
+  height: 300px;
+}
